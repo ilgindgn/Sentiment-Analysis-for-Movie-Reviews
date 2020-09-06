@@ -5,8 +5,8 @@ This project is designed to analyze the movie reviews and develop a classifier t
 This project is composed of four main parts: 
 
 * Exploratory Data Analysis (EDA) 
-* Feature extraction using the bag-of-words representation approach
-* Predictive modeling using the Multinomial Naive Bayes (MNB) algorithm
+* Feature extraction using the [Bag-of-words](https://en.wikipedia.org/wiki/Bag-of-words_model) representation approach
+* Predictive modeling using the Multinomial [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) (MNB) algorithm
 * Model evaluation and error analysis
 
 Overall observations:
