@@ -13,6 +13,6 @@ Overall observations:
 
 * Since the Naive Bayes classifiers assume that every word affects the prediction independently of other words, it ignores the meaning of the phrases, i.e. combinations of words that might completely change the meaning of the individual words themselves, which is very common in English language. 
 
-* In addition, the bag-of-words approach ignores the order of the words in a sentence and performs poorly in dealing with the negated phrases. 
+* In addition, the Bag-of-words approach ignores the order of the words in a sentence and performs poorly in dealing with the negated phrases. 
 
 To get started, download the files "reviews.csv" and "movies.dat".
